@@ -14,7 +14,7 @@ def query():
 
 def main():
     app.debug = True
-    app.run(host='192.168.1.252', port=5000)
+    app.run()
 
 if __name__ == '__main__':
     main()
