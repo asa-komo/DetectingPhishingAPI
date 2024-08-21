@@ -1,4 +1,4 @@
 #gitignore
 
 Detecting-Phishing-beta/
-PhishingAPI/
+.venv/
